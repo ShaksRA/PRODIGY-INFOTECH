@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Glassmorphic Stopwatch</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="stopwatch">
+            <div id="display" class="display">00:00.00</div>
+            <div class="controls">
+                <button id="startPauseBtn" class="btn">Start</button>
+                <button id="resetBtn" class="btn btn-outline">Reset</button>
+                <button id="lapBtn" class="btn" disabled>Lap</button>
+            </div>
+            <div class="laps-container">
+                <h3>Laps</h3>
+                <div id="lapslist" class="laps-list"></div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
