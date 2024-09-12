@@ -24,3 +24,6 @@ A fully responsive Weather Dashboard with Real Time weather insights and autocom
 - Tailwindcss
 - Framer Motion
 
+## Video Output
+
+https://github.com/user-attachments/assets/19e8fe1b-f75a-40f6-81fc-1861c6c4642f
