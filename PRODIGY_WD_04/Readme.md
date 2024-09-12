@@ -16,6 +16,7 @@
 
 https://github.com/user-attachments/assets/f8c2de51-9acc-4a45-86e0-92a3b49161c2
 
+## Note : Kindly ignore the number i.e. (1) in navbar (1).jsx and etc wherever applicable while downloading and running locally since it will create problem. Save all this as like navbar.jsx and etc.
 ---
 
 ## Table of Contents :scroll:
