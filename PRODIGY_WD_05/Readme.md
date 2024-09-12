@@ -27,3 +27,5 @@ A fully responsive Weather Dashboard with Real Time weather insights and autocom
 ## Video Output
 
 https://github.com/user-attachments/assets/19e8fe1b-f75a-40f6-81fc-1861c6c4642f
+
+## Note : Kindly ignore the number i.e. (2) in App (2).jsx and etc wherever applicable while downloading and running locally since it will create problem. Save all this as like App.jsx and etc.
