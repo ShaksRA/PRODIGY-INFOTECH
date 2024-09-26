@@ -34,4 +34,4 @@ export default {
 Now, create all these variables in the project and make sure you set ATLAS_URI variable.
 Otherwise, the project will not work.
 
-## Disclaimer : The number assigned near to the file eg. Username (1).js, this file will not work untill it will be saved as Username.js. So remove the number after downloading to avoid problem in configuration. 
+## Disclaimer : The number assigned near to the file eg. Username (1).js, this file will not work untill it will be saved as Username.js. So remove the number after downloading to avoid problem in configuration. This is applicable to both Client and Server side files and also wherever it is present.
